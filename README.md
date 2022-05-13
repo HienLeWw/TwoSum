@@ -12,6 +12,7 @@
   - Using Hash Map to store value and index of nums[i] in given array:
     - Key = nums[i];
     - Value = i;
+  - Get to the next element.
   - Once encounter 'target-nums[i]' in hash map, we push 'i' and 'map[target-nums[i]]' (index of 'target-nums[i]') into 'Result'.
 # Code:
   Here is my completed function:
